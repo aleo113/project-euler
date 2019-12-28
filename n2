@@ -27,3 +27,6 @@ while(n< 4000000 )
 	system("pause");
 	return 0;
 }
+
+
+Answer: 4613732
